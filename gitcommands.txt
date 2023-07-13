@@ -8,3 +8,4 @@ git push -u origin main
 git remote add origin https://github.com/Akkishiva/producerAndconsumer-using-go.git
 git branch -M main
 git push -u origin main
+pas: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
